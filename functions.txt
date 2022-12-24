@@ -1,1 +1,2 @@
 Functions used in 1st sc
+print ()
