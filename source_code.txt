@@ -1,2 +1,2 @@
-This file is the source code of 1st program
+//This file is the source code of 1st program
 print ("Hello world")

@@ -1,2 +1,1 @@
-Functions used in 1st sc
-print ()
+This is is the list for functions which are/will be added in future
